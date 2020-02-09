@@ -1,2 +1,2 @@
 # jenkinslib
-jenkinslib
+Jenkins share library
